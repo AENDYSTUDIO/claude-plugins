@@ -1,6 +1,6 @@
 {
   "name": "ndp",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "NormalDance Protocol MCP — music rights and track identification for AI agents (21 tools). Runs locally via npx @aendykachess/ndp-mcp; no API key needed for read tools.",
   "author": {
     "name": "AENDYSTUDIO",

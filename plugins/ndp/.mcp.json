@@ -5,8 +5,8 @@
       "args": ["-y", "@aendykachess/ndp-mcp"],
       "env": {
         "MCP_TRANSPORT": "stdio",
-        "REGISTRY_URL": "https://normaldance.ru",
-        "ORACLE_URL": "https://normaldance.ru"
+        "REGISTRY_URL": "https://normaldance.ru/registry",
+        "ORACLE_URL": "https://normaldance.ru/oracle"
       }
     }
   }

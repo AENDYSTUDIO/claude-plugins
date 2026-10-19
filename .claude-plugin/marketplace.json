@@ -9,7 +9,7 @@
       "name": "ndp",
       "source": "./plugins/ndp",
       "description": "NDP — AI tools for music rights (21 MCP tools): track identification by ADNA fingerprint, rights manifests, artist verification. Runs locally via npm, no API key needed.",
-      "version": "1.1.0",
+      "version": "1.1.1",
       "author": {
         "name": "AENDYSTUDIO"
       },
