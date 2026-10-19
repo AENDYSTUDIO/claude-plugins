@@ -8,8 +8,8 @@
     {
       "name": "ndp",
       "source": "./plugins/ndp",
-      "description": "NDP — AI tools for music rights: track identification by perceptual fingerprint (ADNA), rights manifests, artist verification, registry audit. Remote MCP at mcp.normaldance.ru.",
-      "version": "1.0.0",
+      "description": "NDP — AI tools for music rights (21 MCP tools): track identification by ADNA fingerprint, rights manifests, artist verification. Runs locally via npm, no API key needed.",
+      "version": "1.1.0",
       "author": {
         "name": "AENDYSTUDIO"
       },

@@ -1,10 +1,12 @@
 {
   "mcpServers": {
-    "ndp": {
-      "type": "sse",
-      "url": "https://mcp.normaldance.ru/http",
-      "headers": {
-        "X-NDP-Token": "${NDP_TOKEN}"
+    "ndp-mcp": {
+      "command": "npx",
+      "args": ["-y", "@aendykachess/ndp-mcp"],
+      "env": {
+        "MCP_TRANSPORT": "stdio",
+        "REGISTRY_URL": "https://normaldance.ru",
+        "ORACLE_URL": "https://normaldance.ru"
       }
     }
   }
