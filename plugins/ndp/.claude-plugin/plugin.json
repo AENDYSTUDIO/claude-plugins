@@ -1,0 +1,9 @@
+{
+  "name": "ndp",
+  "version": "1.0.0",
+  "description": "NormalDance Protocol MCP — music rights and track identification for AI agents (21 tools). Set NDP_TOKEN env before use; get a key via Telegram @NORMALDANCE.",
+  "author": { "name": "AENDYSTUDIO", "url": "https://normaldance.ru" },
+  "homepage": "https://normaldance.ru/docs/",
+  "repository": "https://github.com/AENDYSTUDIO/ndp-mcp",
+  "license": "MIT"
+}

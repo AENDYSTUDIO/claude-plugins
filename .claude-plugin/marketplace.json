@@ -1,0 +1,28 @@
+{
+  "name": "aendy-plugins",
+  "owner": {
+    "name": "AENDYSTUDIO",
+    "url": "https://normaldance.ru"
+  },
+  "plugins": [
+    {
+      "name": "ndp",
+      "source": "./plugins/ndp",
+      "description": "NDP — AI tools for music rights: track identification by perceptual fingerprint (ADNA), rights manifests, artist verification, registry audit. Remote MCP at mcp.normaldance.ru.",
+      "version": "1.0.0",
+      "author": {
+        "name": "AENDYSTUDIO"
+      },
+      "homepage": "https://normaldance.ru/docs/",
+      "repository": "https://github.com/AENDYSTUDIO/ndp-mcp",
+      "tags": [
+        "mcp",
+        "music",
+        "copyright",
+        "ai-agents"
+      ],
+      "category": "Productivity"
+    }
+  ],
+  "description": "NormalDance Protocol plugins: MCP tools for music rights and track identification"
+}

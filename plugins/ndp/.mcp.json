@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "ndp": {
+      "type": "sse",
+      "url": "https://mcp.normaldance.ru/http",
+      "headers": {
+        "X-NDP-Token": "${NDP_TOKEN}"
+      }
+    }
+  }
+}
